@@ -1,0 +1,16 @@
+Input,Type,Classification
+I am very happy with this result.,Text,Positive
+This task is very difficult.,Text,Positive
+I am disappointed with the performance.,Text,Positive
+This is a bad experience.,Text,Negative
+This is a bad experience.,Text,Negative
+"This is a bad experience.
+",Text,Negative
+"
+This project is amazing and works perfectly.",Text,Positive
+The result is okay but needs improvement.,Text,Negative
+Its amazing,Text,Positive
+two dogs laying on the grass,Image Caption,Negative
+group of friends having a good time together on a mountain,Image Caption,Positive
+group of friends having a good time together on a mountain,Image Caption,Neutral
+It was amazing work,Text,Positive
