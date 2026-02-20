@@ -1,5 +1,5 @@
 # Week2_Cellula
-#Image Captioning & Text Classification App
+Image Captioning & Text Classification App
 
 A Streamlit application for generating image captions, classifying text, and demonstrating model quantization to reduce large model sizes like BERT or LLaMA.
 
